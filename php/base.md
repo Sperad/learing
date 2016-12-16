@@ -1,4 +1,5 @@
 # PHP基础
+所有学习记录来自[php官方网站](https://secure.php.net/manual/zh/)
 
 ## 数据类型
 - boolean（布尔型）
