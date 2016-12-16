@@ -3,7 +3,7 @@
 ## PHP
 - [基础](php/base.md)
 - [单元测试](php/phpunit.md)
-- [设计模式](php/design.md)
+- [设计模式](php/design/README.md)
 - [源码](php/code.md)
 
 ## Mysql

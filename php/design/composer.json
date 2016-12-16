@@ -1,0 +1,17 @@
+{
+    "name": "Jpher/designPatterns",
+    "description": "code design patterns PHP",
+    "license": "",
+    "keywords": ["design patterns php"],
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Jpher",
+            "email": "269536398@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0",
+    },
+   
+}
