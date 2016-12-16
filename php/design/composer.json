@@ -1,9 +1,9 @@
 {
-    "name": "Jpher/designPatterns",
+    "name": "jpher/design-patterns",
     "description": "code design patterns PHP",
-    "license": "",
+    "license": "MIT",
     "keywords": ["design patterns php"],
-    "version": "1.0.0",
+    "homepage": "https://github.com/jpher/designPatterns",
     "authors": [
         {
             "name": "Jpher",
@@ -11,7 +11,6 @@
         }
     ],
     "require": {
-        "php": ">=7.0",
-    },
-   
+        "php": ">=7.0"
+    }
 }
