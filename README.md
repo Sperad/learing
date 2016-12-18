@@ -2,8 +2,9 @@
 
 ## PHP
 - [基础](php/base.md)
+- [开发规范](php/recommendations.md)
 - [单元测试](php/phpunit.md)
-- [设计模式](php/design/README.md)
+- [设计模式](https://github.com/jpher/designPatterns)
 - [源码](php/code.md)
 
 ## Mysql
