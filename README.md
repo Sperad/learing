@@ -2,11 +2,15 @@
 
 ## PHP
 - [基础](php/base.md)
+- [书籍](php/book.md)
 - [开发规范](php/recommendations.md)
 - [单元测试](php/phpunit.md)
 - [设计模式](https://github.com/jpher/designPatterns)
+- [性能](php/performance.md)
 - [源码](php/code.md)
-
+## Javascript
+- [个人框架](https://github.com/Sperad/client)
+- [书籍](javascript/book.md)
 ## Mysql
 
 ## Redis
@@ -15,6 +19,8 @@
 
 ## Apache
 
+# Vagrant
+- [下载教程](https://github.com/everyx/vagrant-box-download-helper-everyx.user.js)
 ## Tools
 - [Sublime](sublime.md)
 - phpstudy
