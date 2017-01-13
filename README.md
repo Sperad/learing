@@ -6,6 +6,7 @@
 - [开发规范](php/recommendations.md)
 - [单元测试](php/phpunit.md)
 - [设计模式](https://github.com/jpher/designPatterns)
+- [扩展](php/extension.md)
 - [性能](php/performance.md)
 - [源码](php/code.md)
 

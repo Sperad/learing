@@ -1,6 +1,7 @@
 # 单元测试
 
 ### 安装
+- [官网](https://phpunit.de)
 - windows
     - 安装PHP,并加入系统环境变量
     - [官网下载phar文件](http://www.phpunit.cn)
@@ -10,6 +11,6 @@
     - wget https://phar.phpunit.de/phpunit.phar
     - chmod +x phpunit.phar
     - sudo mv phpunit.phar /usr/local/bin/phpunit
-    - phpunit --version
+    - sudo phpunit --version
 
 ### 常用
