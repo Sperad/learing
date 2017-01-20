@@ -1,14 +1,15 @@
-# learing
+# Learing
 
 ## PHP
 - [基础](php/base.md)
-- [书籍](php/book.md)
-- [开发规范](php/recommendations.md)
+- [版本](php/version.md)
+- [规范推荐](php/recommendations.md)
 - [单元测试](php/phpunit.md)
-- [设计模式](https://github.com/jpher/designPatterns)
 - [扩展](php/extension.md)
 - [性能](php/performance.md)
-- [源码](php/code.md)
+- [源码](php/source.md)
+- [设计模式](https://github.com/jpher/designPatterns)
+- [代码段](php/code.md)
 
 ## 前端
 - [Html](front/html.md)
@@ -31,7 +32,8 @@
 # Vagrant
 - 是一个基于Ruby的工具, 用于构建和部署虚拟化开发环境的工具.
 - [官网](https://www.vagrantup.com/)
-- [下载教程](https://github.com/everyx/vagrant-box-download-helper-everyx.user.js)
+- [使用教程](https://github.com/astaxie/go-best-practice/blob/master/ebook/zh/01.2.md)
+- [box快速下载](https://github.com/everyx/vagrant-box-download-helper-everyx.user.js)
 
 ## Tools
 - [Sublime](sublime.md)
