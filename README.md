@@ -22,7 +22,13 @@
 
 ## Apache
 
+## Linux
+- [Gearman](http://gearman.org/) 分布式任务调度程序
+- supervisor (Linux进程管理工具)
+
 # Vagrant
+- 是一个基于Ruby的工具, 用于构建和部署虚拟化开发环境的工具.
+- [官网](https://www.vagrantup.com/)
 - [下载教程](https://github.com/everyx/vagrant-box-download-helper-everyx.user.js)
 
 ## Tools
@@ -30,7 +36,7 @@
 - phpstudy
     - 优点: 能快速切换php版本, 环境
     - 缺点: 不同版需要不同的运行库。[查看详情](http://www.phpstudy.net/a.php/184.html)
-- [FSCapture](download/FSCapture.exe)
+- FSCapture
     - 优点: 小巧方便
     - 突出功能: 滚动窗口截图，屏幕取色
 
