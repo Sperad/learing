@@ -1,5 +1,38 @@
 # 版本区别
 
+### php7.0
+- 新特性
+    - 1.标量类型声明 
+    - 2.返回值类型声明
+    - 3.null合并运算符(??)
+    - 4.太空船操作符('<=>' 组合比较符)
+    - 5.通过 define() 定义常量数组
+    - 6.匿名类
+    - 7.Unicode codepoint 转译语法
+    - 8.Closure::call()
+    - 9.为 unserialize() 提供过滤
+    - 10.IntlChar类
+    - 11.预期
+    - 12.Group use declarations
+    - 13.intdiv
+    - 14.CSPRNG
+    - 15.preg_replace_callback_array
+    - 16.Session options
+    - 17.生成器的返回值
+    - 18.生成器中引入其他生成器
+- 不兼容性
+    - 1.foreach 不再改变内部数组指针
+    - 2.foreach 通过引用遍历时，有更好的迭代特性
+    - 3.十六进制字符串不再被认为是数字
+    - 4.new 操作符创建的对象不能以引用方式赋值给变量
+    - 5.移除了 ASP 和 script PHP 标签
+    - 6.在数值溢出的时候，内部函数将会失败
+    - 7.JSON 扩展已经被 JSOND 取代
+    - 8.INI 文件中 # 注释格式被移除
+    - 9. $HTTP_RAW_POST_DATA 被移除
+    - 10. yield 变更为右联接运算符
+
+
 ### php5.6
 - 1.可以使用表达式定义常量
 - 2.使用 ... 运算符定义变长参数函数
