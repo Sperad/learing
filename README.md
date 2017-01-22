@@ -27,8 +27,6 @@
 - [Gearman](http://gearman.org/) 分布式任务调度程序
 - supervisor 进程管理工具
 
-## Redis
-
 ## Tools
 - [Sublime](sublime.md)
 - phpstudy

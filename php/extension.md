@@ -1,12 +1,9 @@
 # 扩展
 
-## Apc
-
-## Curl
-
-## Gd2
-
-## Mbstring
+##Curl
+- 传输文件
+    - window: 添加:'@'
+    - linux : 添加:'@', 当phpversion() > 5.5, `curl_setopt($ch, CURLOPT_SAFE_UPLOAD, false)` 添加到 `CURLOPT_POST,CURLOPT_POSTFIELDS` 之前. 否则无效
 
 ## Gearman
 ##### addTask 与 addTaskBackground
