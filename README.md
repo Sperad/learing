@@ -25,15 +25,9 @@
 
 ## Linux
 - [Gearman](http://gearman.org/) 分布式任务调度程序
-- supervisor (Linux进程管理工具)
+- supervisor 进程管理工具
 
 ## Redis
-
-# Vagrant
-- 是一个基于Ruby的工具, 用于构建和部署虚拟化开发环境的工具.
-- [官网](https://www.vagrantup.com/)
-- [使用教程](https://github.com/astaxie/go-best-practice/blob/master/ebook/zh/01.2.md)
-- [box快速下载](https://github.com/everyx/vagrant-box-download-helper-everyx.user.js)
 
 ## Tools
 - [Sublime](sublime.md)
@@ -43,4 +37,7 @@
 - FSCapture
     - 优点: 小巧方便
     - 突出功能: 滚动窗口截图，屏幕取色
-
+- Vagrant
+    - 是一个基于Ruby的工具, 用于构建和部署虚拟化开发环境的工具.
+    - [官网](https://www.vagrantup.com/) & [使用教程](https://github.com/astaxie/go-best-practice/blob/master/ebook/zh/01.2.md)
+    - [box快速下载](https://github.com/everyx/vagrant-box-download-helper-everyx.user.js)
