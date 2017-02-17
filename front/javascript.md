@@ -8,3 +8,6 @@
 
 ### 开发者
 - [成都 JavaScript](https://github.com/jschengdu/developers)
+
+### 性能测试平台
+- [https://jsperf.com](https://jsperf.com)
