@@ -15,3 +15,8 @@ print_r(array_merge(... $data)); // [1, 2, 3, 4, 5];
 ### 二维数组排序
 - 指定$k
     ``` array_multisort(array_column($rows, 'id'), SORT_ASC, $rows);```
+
+file_get_contents() 不支持https
+https://curl.haxx.se/ca/cacert.pem
+
+常见代码段:https://blog.dmic.studio/posts/php-array-function/
