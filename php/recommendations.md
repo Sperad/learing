@@ -4,6 +4,7 @@
 - 必看
     - [The Right Way](http://www.phptherightway.com/)
     - [Modern PHP](https://github.com/codeguy/modern-php)
+    - [The Right Way of laravel-china](https://laravel-china.github.io/php-the-right-way/#how-to-contribute)
     
 - 资源列表
     - [awesome-php](https://github.com/ziadoz/awesome-php)
