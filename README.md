@@ -26,6 +26,7 @@
 - [openssl](server/Openssl.md)
 - [Gearman](server/gearman.md) 分布式任务调度程序
 - [supervisor](server/supervisor.md) 进程管理工具
+- [cmd](server/shell.md) 常用命令
 - crontab 系统自带定时任务,最小单位:分
 
 ## 日志分析

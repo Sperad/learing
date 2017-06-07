@@ -3,7 +3,7 @@
 ### ElasticSearch
 - 解决分片问题  curl -XPUT "http://localhost:9200/_settings" -d' {  "number_of_replicas" : 0 } '
 
-- 删除索引  `curl -XDELETE 'http://192.168.210.131:9200/{indexName}`
+- 删除索引  `curl -XDELETE 'http://localhost:9200/{indexName}`
 - 查看集群状态  `GET  /_cat/health?v`
 - 查看索引状态  `GET  /_cat/indices?v`
 - 查看分片状态  `GET  /_cat/shards?v`
