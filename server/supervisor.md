@@ -5,7 +5,7 @@
 - 关闭 supervisorctl shutdown
 - 停止进程 supervisorctl [`start|stop|restart`] [`programName|groupName`]
 - 停止全部 supervisorctl stop all  `注：start、restart、stop都不会载入最新的配置文件。`
-- 查看状态 supervisorctl status
+- 查看状态 supervisorctl status `查看各子进程运行状态`
 - 重载配置 supervisorctl reload `载入最新的配置文件，停止原有进程并按新的配置启动、管理所有进程。`
 - 新增进程 supervisorctl update `根据最新的配置文件，启动新配置或有改动的进程，配置没有改动的进程不会受影响而重启`
 - **`注意：显示用stop停止掉的进程，用reload或者update都不会自动重启。`**

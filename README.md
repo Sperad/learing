@@ -45,3 +45,5 @@
     - 是一个基于Ruby的工具, 用于构建和部署虚拟化开发环境的工具.
     - [使用教程](https://github.com/astaxie/go-best-practice/blob/master/ebook/zh/01.2.md)
     - [box快速下载](https://github.com/everyx/vagrant-box-download-helper-everyx.user.js)
+- 正则
+    http://louiszhai.github.io/2016/06/13/regexp/
