@@ -20,3 +20,9 @@ file_get_contents() 不支持https
 https://curl.haxx.se/ca/cacert.pem
 
 常见代码段:https://blog.dmic.studio/posts/php-array-function/
+
+-- 获取关联数组最后的键名和键值
+~~~
+$lastVal = end($all);
+$lastKey = key($all);
+~~~

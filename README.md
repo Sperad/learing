@@ -11,6 +11,10 @@
 - [设计模式](https://github.com/jpher/designPatterns)
 - [代码段](php/code.md)
 - [框架](php/framework.md)
+- [运行环境](php/runing.md)
+
+## Python
+- [基础](python/base.md)
 
 ## 前端
 - [Html](front/html.md)

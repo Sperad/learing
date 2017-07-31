@@ -2,6 +2,8 @@
 
 ### [官网](http://gearman.org/)
 
+### 启动
+- gearmand --log-file /var/log/gearmand.log -d
 ### 命令
 - 查看任务状态: gearadmin --status
     - Column 0​ Job/task name​
