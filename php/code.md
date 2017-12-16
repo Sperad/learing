@@ -26,3 +26,20 @@ https://curl.haxx.se/ca/cacert.pem
 $lastVal = end($all);
 $lastKey = key($all);
 ~~~
+
+### JSON
+使json字符串变为php能识别的字符串(对 key,val 增加双引号)
+function JSON_DECODE($json, $assoc = TRUE)
+{
+    $json = str_replace(["\n","\r"],"\\n", $json);
+    $json = preg_replace('/([{,]+)(\s*)([^"]+?)\s*:/','$1"$3":', $json);
+    $json = preg_replace('/(,)\s*}$/','}', $json);
+    return json_decode($json, $assoc);
+}
+
+//获取毫秒数据
+function millisecond()
+{
+    list($t1, $t2) = explode(' ', microtime());
+    return round((floatval($t1) + floatval($t2)) * 1000,0) - 86400000;
+}

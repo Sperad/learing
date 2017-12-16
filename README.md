@@ -16,6 +16,9 @@
 ## Python
 - [基础](python/base.md)
 
+## Go
+- [基础](go/base.md)
+
 ## 前端
 - [Html](front/html.md)
 - [Css](front/css.md)

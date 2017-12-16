@@ -13,7 +13,11 @@
 
 ## Redis
 - [通常教程](https://github.com/phpredis/phpredis)
+- [windows下载](http://pecl.php.net/package/redis/2.2.7/windows)
 - 常见操作
     - 设置字符串 `$redis->set($key, $valus)` 重复使用,覆盖上一次.
     - 设置字符串 `$redis->setnx($key, $valus)` 重复使用,第二次失败.
     - 设置字符串过期时间 `$redis->setex($key, $expire, $ex)` $expire 单位:秒.
+
+## Kafka
+- [扩展源码](https://github.com/arnaud-lb/php-rdkafka)
