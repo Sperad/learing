@@ -9,7 +9,7 @@ expect {
     "Organization Name*" { send "hx\r"; exp_continue}
     "Organizational Unit Name*" { send "jj\r"; exp_continue}
     "Common Name*" { send "ca/\r"; exp_continue}
-    "Email Address*" { send "ca@myhexin.com\r"; exp_continue}
+    "Email Address*" { send "ca@qq.com\r"; exp_continue}
 }
 spawn ./_server_new.sh
 #server.csr
@@ -19,8 +19,8 @@ expect {
     "Locality Name*" { send "hz\r"; exp_continue}
     "Organization Name*" { send "hx\r"; exp_continue}
     "Organizational Unit Name*" { send "jj\r"; exp_continue}
-    "Common Name*" { send "172.20.202.100:5445\r"; exp_continue}
-    "Email Address*" { send "fundsale@myhexin.com\r"; exp_continue}
+    "Common Name*" { send "127.0.0.1:80\r"; exp_continue}
+    "Email Address*" { send "aa@qq.com\r"; exp_continue}
     "A challenge password*" { send "\r"; exp_continue}
     "An optional company name*" { send "\r"; exp_continue }
 }

@@ -8,8 +8,8 @@ expect {
     "Locality Name*" { send "hz\r"; exp_continue}
     "Organization Name*" { send "hx\r"; exp_continue}
     "Organizational Unit Name*" { send "jj\r"; exp_continue}
-    "Common Name*" { send "jjdx8\r"; exp_continue}
-    "Email Address*" { send "jjdx8@myhexin.com\r"; exp_continue}
+    "Common Name*" { send "sperad\r"; exp_continue}
+    "Email Address*" { send "sperad@qq.com\r"; exp_continue}
     "A challenge password*" { send "\r"; exp_continue}
     "An optional company name*" { send "\r"; exp_continue }
 }
