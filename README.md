@@ -6,11 +6,11 @@
 - [规范推荐](php/recommendations.md)
 - [单元测试](php/phpunit.md)
 - [扩展](php/extension.md)
+- [框架](php/framework.md)
 - [性能](php/performance.md)
 - [源码](php/source.md)
 - [设计模式](https://github.com/jpher/designPatterns)
 - [代码段](php/code.md)
-- [框架](php/framework.md)
 - [运行环境](php/runing.md)
 
 ## Python
@@ -30,7 +30,6 @@
 ## Linux/服务器
 - [Nginx](server/Nginx.md)
 - [Apache](server/Apache.md)
-- [openssl](server/Openssl.md)
 - [Gearman](server/gearman.md) 分布式任务调度程序
 - [supervisor](server/supervisor.md) 进程管理工具
 - [cmd](server/shell.md) 常用命令
@@ -41,8 +40,7 @@
 - [elk](log/elk.md)
 
 ## Tools
-- [Sublime](tool/sublime.md) 文本编辑器
-- [PhpStorm](tool/phpstorm.md) IDE
+- [IDE](tool/IDE.md) 含: Sublime, PhpStorm
 - phpstudy
     - 优点: 能快速切换php版本, 环境
     - 缺点: 不同版需要不同的运行库。[查看详情](http://www.phpstudy.net/a.php/184.html)

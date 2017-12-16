@@ -7,5 +7,8 @@
 ##### 启动
 - ./redis-server /path/redis.conf
 
-### Windows
-redis-server.exe redis.conf
+##### Windows
+- redis-server.exe redis.conf
+
+
+### 集群
