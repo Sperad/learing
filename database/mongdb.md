@@ -10,8 +10,15 @@
 ### 可视化工具
 - rockmongodb
 
-
 ### 备份
  - mongodump -h dbhost -d dbname -o dbdirectory
 ### 恢复
  - mongorestore -h dbhost -d dbname --dir dbdirectory
+ 
+### 条件
+ - $gt  -------- greater than  >
+ - $gte -------- gt equal      >=
+ - $lt  -------- less than     <
+ - $lte -------- lt equal      <=
+ - $ne  -------- not equal     !=
+ - $eq  -------- equal         =
