@@ -18,3 +18,12 @@ Kafka一开始就基于打包消费的在线消费者并且支持生产数据进
 Kafka只有非常简单的路由功能-在AMQP来说它仅仅使用话题进行交流。
 
 Kafka是早期Apache的孵化项目，它并不一定像RabbitMQ那样难学。
+
+
+
+
+查看所有topic列表
+bin/kafka-topics.sh --zookeeper {ip}:{port} --list
+
+查看指定topic信息
+bin/kafka-topics.sh --zookeeper  {ip}:{port} --describe --topic {topicName}
