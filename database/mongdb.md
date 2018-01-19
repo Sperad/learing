@@ -11,9 +11,10 @@
 - rockmongodb
 
 ### 备份
- - mongodump -h dbhost -d dbname -o dbdirectory
+ - 整个库 mongodump -h dbhost -d dbname -o dbdirectory
 ### 恢复
- - mongorestore -h dbhost -d dbname --dir dbdirectory
+ - 整个库 mongorestore -h dbhost -d dbname --dir dbdirectory
+ - 单集合 mongorestore -h dbhost -d dbname -c collectionName  fileName.bson
  
 ### 条件
  - $gt  -------- greater than  >
