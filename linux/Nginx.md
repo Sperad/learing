@@ -4,6 +4,11 @@
 - [nginx简明教程](https://yq.aliyun.com/articles/69548?utm_campaign=wenzhang&utm_medium=article&utm_source=QQ-qun&utm_content=m_10376)
 - [初识 Nginx](https://lufficc.com/blog/nginx-for-beginners)
 
+### 下载
+- 指定版本: http://nginx.org/download/
+- 第三方模块:
+    https://www.nginx.com/resources/wiki/modules/index.html
+
 ### 执行命令
 - `nginx -t `        - 检查配置是否正确
 - `nginx -s stop   ` — 快速关闭

@@ -8,7 +8,7 @@
 ### 并发
 - ab 压力测试
 
--xhprof 
-相关画图 Graphviz
-yum install graphviz
-yum install graphviz-gd
+### xhprof 
+- 相关画图 Graphviz
+- yum install graphviz
+- yum install graphviz-gd

@@ -1,11 +1,17 @@
-# sublime
 
+# Sublime
 ## 安装
 - [sublime下载](http://www.sublimetext.com/3)
 - [package安装](https://packagecontrol.io/installation)
 
 ## 常见配置
-
+- 多行选择快捷键冲突
+    *桌面上右键单击 ->选择"图形选项" -> "快捷键" -> 选择"禁用"。但是这样禁用之后ctrl+alt+方向键的快捷键就失效了。
+    *最后我的解决方法是在Preferences→Key Binding-User中重新定义了快捷键如下：
+    ```
+        { "keys": ["ctrl+shift+f9"], "command": "select_lines", "args": {"forward": false} },
+        { "keys": ["ctrl+shift+f10"], "command": "select_lines", "args": {"forward": true} },
+    ```
 - Ctrl+B来编译.php文件
     * 配置php全局环境变量
     * Tools->Build System-> New Build System (默认的内容是{ "shell_cmd": "make"})

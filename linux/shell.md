@@ -11,5 +11,10 @@
 - 查看文件前200个字节
     - head -c 200 /path/filename
 
-# 注意
+### 网络排查
+- route
+    - route add default netmask 0.0.0.0 gw 0.0.0.0 dev eth0
+
+### 注意
 - 服务器磁盘满，导致无法写入数据，站点无法正常启动，写入log日志
+

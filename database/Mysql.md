@@ -24,3 +24,12 @@
 - 分页查询
     - `select * from user where id >=2999999  limit 20;`
     - `select * from user  a JOIN (select id from user limit 999999, 20) b ON a.id = b.id;`
+
+### 字符集
+- 查看有关变量: `show variables like 'character%'`
+- 修改字符集: `set character_set_database=utf8;`
+### 表操作
+- 清空数据: `truncate table {tableName}`
+
+
+mariadb
