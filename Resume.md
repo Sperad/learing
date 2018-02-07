@@ -1,7 +1,7 @@
 ## 宋永进 - PHP
 
 - 男 / 1993
-- Email：269536398@qq.com
+- Email：sperad.party@foxmail.com
 - 微信号 / 手机：Sperad / MTc2MjgwNDQ1NTc=
 - Github：https://github.com/Sperad
 
