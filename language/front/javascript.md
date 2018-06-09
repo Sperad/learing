@@ -1,7 +1,8 @@
 # Javascript
 
-### 个人框架
-- [https://github.com/Sperad/client](https://github.com/Sperad/client)
+### 框架
+- [个人](https://github.com/Sperad/client)
+- [Vue](https://cn.vuejs.org/)
 
 ### 资源列表
 - [awesome-frontend](https://github.com/JingwenTian/awesome-frontend)

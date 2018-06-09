@@ -13,6 +13,6 @@ echo -e "\n\nend of client.......\n\n"
 
 
 echo -e "\n\n Export .p12 file.......\n\n"
-#将client.crt转换为 .pfx|.p12 格式的证书
+
 openssl pkcs12 -export -clcerts -in client.crt -inkey client.key -out client.p12
 echo -e "\n\n Export .p12 file end.......\n\n"

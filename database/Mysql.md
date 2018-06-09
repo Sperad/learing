@@ -32,4 +32,4 @@
 - 清空数据: `truncate table {tableName}`
 
 
-mariadb
+# mariadb
