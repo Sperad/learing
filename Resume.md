@@ -1,14 +1,14 @@
 ## 宋永进 - Java
 
 - 男 / 1993
-- Email: sperad@qq.com
+- Email: [sperad@qq.com]()
 - 微信号 / 手机: Sperad / MTc2MjgwNDQ1NTc=
-- Github: https://github.com/Sperad
+- Github: <a href="https://github.com/Sperad" target="_blank">Sperad</a>
 - 求职岗位: Java开发工程师
 - 工作时长: 5年(1年java,4年php)
 
 ## 工作经历
-### [1. 成都G7](http://www.g7.com.cn/){:target="_blank"} **2018.04 ~ 至今**
+### <a href="https://www.g7.com.cn" target="_blank">1. 成都G7</a>  **2018.04 ~ 至今**
 G7S平台能高效为客户管理车辆司机，提供车辆定位，安全提醒，事件通知，干预下发等一系列全套服务的综合平台。  
 在公司这3年里，了解公司架构体系，参与过公司技术标准规范的制定并实施。开发过内部php框架的组件。  
 目前主要开发java项目，维护部分php项目。
@@ -22,7 +22,7 @@ G7S平台能高效为客户管理车辆司机，提供车辆定位，安全提�
 - 部门岗位：研发组
 - 职责：软件开发
 - 部门 / 开发人数(人)：33 / 17
-- [项目地址](https://g7s.huoyunren.com){target="blank"}
+- <a href="https://g7s.huoyunren.com" target="_blank">项目地址</a>
 
 #### 基础业务研发部
 > **用户中心：** 主要负责全公司的用户体系的日常维护，方案设计并实施。
@@ -33,7 +33,7 @@ G7S平台能高效为客户管理车辆司机，提供车辆定位，安全提�
 - 部门岗位：研发二组
 - 职责：软件开发
 - 部门 / 开发人数(人)：11 / 5
-- [项目地址](https://i.g7.com.cn){target="blank"}
+- <a href="https://i.g7.com.cn" target="_blank">项目地址</a>
 
 ### [2. 浙江核新同花顺网络信息股份有限公司](http://www.10jqka.com.cn/) **2016.07 ~ 2018.03**
 
@@ -47,7 +47,7 @@ G7S平台能高效为客户管理车辆司机，提供车辆定位，安全提�
 - 部门岗位：B2B 智能客服
 - 职责：PHP 运营平台负责人
 - 部门 / 开发人数(人)：30 / 6
-- [项目地址](https://m.stg.pingan.com/ai/h5/){target="blank"}
+- <a href="https://m.stg.pingan.com/ai/h5/" target="_blank">项目地址</a>
 
 #### 基金估值
 
@@ -62,7 +62,7 @@ G7S平台能高效为客户管理车辆司机，提供车辆定位，安全提�
 - 部门岗位：基金开发部
 - 职责：PHP 开发工程师
 - 部门 / 开发人数(人)：15 / 2
-- [项目地址](http://fund.10jqka.com.cn/001878/){target="blank"}
+- <a href="http://fund.10jqka.com.cn/001878/" target="_blank">项目地址</a>
 
 
 ### [3.成都智客科技有限公司](http://www.zhikr.cn/) **2016.02 ~ 2016.06**
@@ -77,7 +77,7 @@ G7S平台能高效为客户管理车辆司机，提供车辆定位，安全提�
 
 ### 简言
 
-> 平时有空就回顾总结整理这一段时间内学习和掌握的知识，[更多...](https://github.com/Sperad/learing){target="blank"}  
+> 平时有空就回顾总结整理这一段时间内学习和掌握的知识，<a href="https://github.com/Sperad/learing" target="_blank">更多...</a>
 
 > 换java语言开发,主要是想提高java技术能力，积累在大数据方向上的解决方案，技术架构等方面的经验。  
 期望全职于java开发(有大数据方向更好)，薪资不低于18k。
