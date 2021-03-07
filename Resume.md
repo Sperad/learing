@@ -1,11 +1,9 @@
 ## 宋永进 - Java
 
-- 男 / 1993
+- 男 / 1993.02
 - Email: [sperad@qq.com]()
 - 微信号 / 手机: Sperad / MTc2MjgwNDQ1NTc=
 - Github: <a href="https://github.com/Sperad" target="_blank">Sperad</a>
-- 求职岗位: Java开发工程师
-- 工作时长: 5年(1年java,4年php)
 
 ## 工作经历
 ### <a href="https://www.g7.com.cn" target="_blank">1. 成都G7</a>  **2018.04 ~ 至今**
@@ -79,7 +77,7 @@ G7S平台能高效为客户管理车辆司机，提供车辆定位，安全提�
 
 > 平时有空就回顾总结整理这一段时间内学习和掌握的知识，<a href="https://github.com/Sperad/learing" target="_blank">更多...</a>
 
-> 换java语言开发,主要是想提高java技术能力，积累在大数据方向上的解决方案，技术架构等方面的经验。  
+> 到目前工作了5年(1年java,4年php)，想换java语言开发,想提高java技术能力，积累在大数据方向上的解决方案，技术架构等方面的经验。  
 期望全职于java开发(有大数据方向更好)，薪资不低于18k。
 
 
